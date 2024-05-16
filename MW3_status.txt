@@ -1,5 +1,5 @@
-MW3 CHAIR + WOOFER,online
-MW3 UA + WOOFER V3,online
-MW3 AIO + WOOFER,online
-MW3 PRIVACY PROTECTOR,online
+CHAIR + WOOFER,online
+UA + WOOFER V3,online
+AIO + WOOFER,online
+PRIVACY PROTECTOR,online
 VPN,online
